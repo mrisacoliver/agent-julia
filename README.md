@@ -18,7 +18,7 @@ pkg> add PromptingTools Pydantic2Julia JSON3 Decimals
 using JSON3
 using Decimals
 
-# Configuração da chave de API (ou exporte no terminal: OPENAI_API_KEY)
+# API key configuration (or export in the terminal: OPENAI_API_KEY).
 # ENV["OPENAI_API_KEY"] = "sua-chave-aqui"
 
 # =====================================================================
